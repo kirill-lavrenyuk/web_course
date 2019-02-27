@@ -1,0 +1,27 @@
+html,
+body,
+table {
+    margin: 0%;
+    width: 100%;
+    height: 100%;
+}
+
+#header {
+    height: 15%;
+    background: orange;
+}
+
+#main {
+    height: 45%;
+    background: yellow;
+}
+
+#bottom {
+    height: 25%;
+    background: rgb(0, 183, 255);
+}
+
+#footer {
+    height: 15%;
+    background: rgb(167, 165, 165);
+}
